@@ -40,6 +40,7 @@ The system works as follows:
 ---
 
 ## 📸 Project Images
+ ![Circuit](Circuit.jpeg)
 
 
 ### 🔌 Proteus Simulation
