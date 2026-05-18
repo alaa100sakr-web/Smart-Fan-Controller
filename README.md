@@ -43,7 +43,7 @@ The system works as follows:
 
 
 ### 🔌 Proteus Simulation
-![Circuit Diagram](proteus.png)
+ Circuit Diagram.jpeg
 
 ### 📟 LCD Output
 ![LCD Display](lcd.png)
