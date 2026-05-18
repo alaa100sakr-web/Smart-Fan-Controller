@@ -45,14 +45,11 @@ The system works as follows:
 ### 🔌 Proteus Simulation
  ![Circuit Diagram](Circuit%20Diagram.jpeg)
 
-### 📟 LCD Output
-![LCD Display](lcd.png)
-
 ---
 
 ## 🎥 Video Demonstration
 
-https://youtube.com/your-video-link
+ 
 
 ---
 
